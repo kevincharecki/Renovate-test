@@ -18,13 +18,13 @@
   "homepage": "https://github.com/kevincharecki/Renovate-test#readme",
   "dependencies": {
     "typeorm": "^0.3.00",
-    "pluralize": "^6.0.0",
-    "protobufjs": "^6.11.2",
+    "pluralize": "^8.0.0",
+    "protobufjs": "^7.0.0",
     "reflect-metadata": "^0.1.13",
-    "rosie": "^1.0.0",
+    "rosie": "^2.0.0",
     "source-map-support": "^0.5.21",
     "ts-money": "^0.4.6",
     "typeorm": "^0.3.12",
-    "uuid": "^8.3.2"
+    "uuid": "^9.0.0"
   }
 }
