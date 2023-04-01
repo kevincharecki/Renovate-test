@@ -330,10 +330,10 @@ parse5@^6.0.1:
   resolved "https://registry.yarnpkg.com/parse5/-/parse5-6.0.1.tgz#e1a1c085c569b3dc08321184f19a39cc27f7c30b"
   integrity sha512-Ofn/CTFzRGTTxwpNEs9PP93gXShHcTq255nzRYSKe8AkVpZY7e1fpmTfOyoIvjP5HG7Z2ZM7VS9PPhQGW2pOpw==
 
-pluralize@^8.0.0:
-  version "8.0.0"
-  resolved "https://registry.yarnpkg.com/pluralize/-/pluralize-8.0.0.tgz#1a6fa16a38d12a1901e0320fa017051c539ce3b1"
-  integrity sha512-Nc3IT5yHzflTfbjgqWcCPpo7DaKy4FnpB0l/zCAW0Tc7jxAiuqSxHasntB3D7887LSrA93kDJ9IXovxJYxyLCA==
+pluralize@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/pluralize/-/pluralize-6.0.0.tgz#d9b51afad97d3d51075cc1ddba9b132cacccb7ba"
+  integrity sha512-Pkg9U8zXX79b4TA58ccgGGzUECJB/Lv0pnSeufX6lLd4jLdjk6C68l2sk7dXE1DnLP+aLLz6qoHDPkSy72TfZQ==
 
 protobufjs@^6.11.2:
   version "6.11.3"
@@ -364,10 +364,10 @@ require-directory@^2.1.1:
   resolved "https://registry.yarnpkg.com/require-directory/-/require-directory-2.1.1.tgz#8c64ad5fd30dab1c976e2344ffe7f792a6a6df42"
   integrity sha512-fGxEI7+wsG9xrvdjsrlmL22OMTTiHRwAMroiEeMgq8gzoLC/PQr7RsRDSTLUg/bZAZtF+TVIkHc6/4RIKrui+Q==
 
-rosie@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/rosie/-/rosie-2.1.0.tgz#0213a9d2b0401a2549cbce5f1cd914caffa22358"
-  integrity sha512-Dbzdc+prLXZuB/suRptDnBUY29SdGvND3bLg6cll8n7PNqzuyCxSlRfrkn8PqjS9n4QVsiM7RCvxCkKAkTQRjA==
+rosie@^1.0.0:
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/rosie/-/rosie-1.6.0.tgz#bc0ef64cd401d00794450d5792c0276e226b6ab0"
+  integrity sha512-4EnKmtQCij5HvDCWXinRaX0wsyWELM8CFSh1CSRU30esXo+H8mMJK53H3BJV8E+NxTf0eFdBBUbIb9t3/QK2FA==
 
 safe-buffer@^5.0.1:
   version "5.2.1"

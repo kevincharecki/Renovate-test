@@ -5,12 +5,13 @@
   ],
   "packageRules": [
     {
-      "groupName": "all non-major dependencies",
-      "groupSlug": "all-minor-patch",
+      "groupName": "all dependencies",
+      "groupSlug": "all-patch",
       "matchPackagePatterns": [
         "*"
       ],
       "matchUpdateTypes": [
+        "major",
         "minor",
         "patch"
       ]

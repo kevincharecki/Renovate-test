@@ -17,11 +17,11 @@
   },
   "homepage": "https://github.com/kevincharecki/Renovate-test#readme",
   "dependencies": {
-    "typeorm": "^0.3.12",
+    "typeorm": "^0.3.00",
     "pluralize": "^6.0.0",
     "protobufjs": "^6.11.2",
     "reflect-metadata": "^0.1.13",
-    "rosie": "^2.0.0",
+    "rosie": "^1.0.0",
     "source-map-support": "^0.5.21",
     "ts-money": "^0.4.6",
     "typeorm": "^0.3.12",
