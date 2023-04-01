@@ -19,7 +19,7 @@
   "dependencies": {
     "typeorm": "^0.3.12",
     "pluralize": "^6.0.0",
-    "protobufjs": "^6.11.2",
+    "protobufjs": "^7.0.0",
     "reflect-metadata": "^0.1.13",
     "rosie": "^2.0.0",
     "source-map-support": "^0.5.21",
